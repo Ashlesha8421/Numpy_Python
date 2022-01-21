@@ -17,3 +17,8 @@ An array is a data structure that stores values of same data type. In python, th
 # Which Language is NumPy written in?
 NumPy is a Python library and is written partially in Python, but most of the parts that require fast computation are written in C or C++.
 
+# To install NumPy we use :
+      !pip install Numpy
+
+# To import NumPy we use :
+     from numpy import np 
