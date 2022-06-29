@@ -22,3 +22,11 @@ NumPy is a Python library and is written partially in Python, but most of the pa
 
 # To import NumPy we use :
      from numpy import np 
+
+# 6 Important things you should know about Numpy and Pandas
+## 1.The data manipulation capabilities of pandas are built on top of the numpy library. In a way, numpy is a dependency of the pandas library.
+## 2.Pandas is best at handling tabular data sets comprising different variable types (integer, float, double, etc.). In addition, the pandas library can also be used to perform even the most naive of tasks such as loading data or doing feature engineering on time series data.
+## 3.Numpy is most suitable for performing basic numerical computations such as mean, median, range, etc. Alongside, it also supports the creation of multi-dimensional arrays.
+## 4.Numpy library can also be used to integrate C/C++ and Fortran code.
+## 5.Remember, python is a zero indexing language unlike R where indexing starts at one.
+## 6.The best part of learning pandas and numpy is the strong active community support you'll get from around the world.
